@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # fix_pdfs_inplace.py
 # Rekursiv PDFs mit qpdf "linearize" reparieren – ohne Duplikate (in-place).
+# KD Info
 
 import argparse
 import os
